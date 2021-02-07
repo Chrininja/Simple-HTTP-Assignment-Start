@@ -2,7 +2,7 @@
   "name": "simple-http-assignment-start",
   "version": "1.0.0",
   "engines": {
-    "node": "7.1.0",
+    "node": "8.10.0",
     "npm": "3.10.x"
   },
   "description": "Simple HTTP HW",
